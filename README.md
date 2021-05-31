@@ -1,7 +1,10 @@
 # Bst_visualizer
 Windows form application written in C# that allows user to create and visualize binary search tree (similar to visuAlgo). Furthermore, allows the user to delete vertices and create a new random bst.
 
-INSTRUCTIONS: 
+Important: 
+The only error when compiling and running the project from visual studio is that I don't have the images that were in the Resources folder anymore. but to see the previous and fully functional version of the program JUST RUN THE .EXE FILE IN THE FinalEstructuras\bin\Debug FOLDER.
+
+INSTRUCTIONS FOR OPENING THE FILE IN VS STUDIO: 
 1. Just download the project and open with Visual studio.
 2. Once the project has been run, the main interface will pop up, which has three buttons and some non-important text.
 3. Hit the create button and a custom message box will show up, once that happens you'll be able to either create a bst from scratch, or generate a random one. There's also a button used to check the instructions you'll have to have in mind when creating a new bst.
